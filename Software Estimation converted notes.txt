@@ -1,0 +1,804 @@
+Sof 
+
+E 
+
+PEI: 
+
+tware stimation É:L 
+
+Es Con ce p 
+
+• • •
+Not hard but net intuitively obvious. Sophisticated research, more fun to:/ → I51. Typical Ggs on be load art.
+
+Art us. Science : Use rule of thumbs, aim for 259 or less.
+
+1. What is an estimate? Different language between dens (manager/execs. estimate / target / commitment. A target is a statement of a desirable business clone. commitment is a promise to deliver some quantity
+is. plan,
+
+A
+
+and quality of software, by a given date. Estimate
+
+6
+
+No preconceived notions or desires about how we want the outcome to leak.
+
+Plan- actively include air biases 4 priorities.
+
+We plan specific means to reach a specific end.
+
+estimates are the Fondation for a plan
+
+• • •
+Planing considerations that depend on good estimates:
+
+Making detailed schedule
+Identifying a project's critical path
+Prioritising functionality for delivery
+Breaking a project into iteration, There's a limit to how well a project on go, there's no limit to how badly it on go. An estimate for a project should have some concept of range, or probability. Testicles are within 25% dealt. 7511 the time. 110% possible on well controlled projects. Estimates 4 project control. By measuring, you change the estimate. Sat at project, do an estimate But project changes as time passes, things get-added & revered, but if it delivers roughly the 'techies to cost. then it wet it's estimation regardless of changes.
+• • •
+Initial target & Initial estimate should be within 204 of each other, and we on make things work.
+
+A good estimate provides a clear view of the project reality, to alter leadership to make good decisions about how to control the project to hit it's targets.
+
+* Don't provide precise estimates like 90% unless you
+
+have a solid statistical basis for it.
+
+* Avoid using artificially narrow ranges, and be sure the
+
+ranges accurately reflect your confidence level. * If you feel pressure to make your estimate, narrower,
+
+verify that this pressure is indeed coming from outside you tear & yourself.
+
+• • •
+Overestimates us.
+
+Underestimates.
+
+Parkinson's Law - work will expand to aneilable time. Glatt's "student syndrome" - given too much time, developers will
+
+procrastinate until late in the project, then rush to complete it, likely not on time.
+
+Sometimes force urgency on team to get things done faster. Underestimating: Reduced effectiveness of project plans. Statistically reduced chance of an-time completion. Poor technical foundation leads to worse. then nominal
+
+results: may have to re-work requirements & design.
+
+* Destructive lake-project dynamics make the project worse
+
+than nominal: - more status meetings w/ upper night to
+
+discuss her to get back on track.
+
+frequent re-estimation, late in project, to determine completion date.
+apologies to customers for lateness. Preparing interim releases.
+Mere discussion, about which requirement absolutely must be added.
+Finally fixing problems arising from quick 4 dirty workarounds.
+• • •
+non-liner penalty
+
+due to plan ing ers.
+
+up sheer defects,
+
+high risk practices.
+
+effort, cash,
+
+schedule
+
+linear penalty due to Parkinson's law.
+
+1004
+
+cook > too! Don't intentionally underestimate.
+
+Penalty for underestimation is more severe. Non-linear and unbounded!
+
+Software project success is correlated w/ project size. The error of estimating is vastly more due to underestimation.
+
+Benefits of accurate estimates:
+
+improved status visibility /Compare plan with progress
+higher quality - accurate estimates help avoid schedule-related-shut. 400 of all software errors are caused by stress.
+better co-ordination with non-software functions.
+better budgeting
+increased visibility for dev team.
+early risk information.
+• • •
+Don't allow a business target to be confused with the software estimate.
+
+May instead change schedule/cost/functionality. Projects will prioritise generic goals of schedule last/ functionality + save specific goals.
+
+Agile development focuses on flexibility, repeatability. robustness, sustainability, and visibility.
+
+CMM (Capability Maturity Model) (formality & optimisation instead focuses on efficiency, improvability, predictability, repeatability & visibility.
+
+Businesses prefer predictability of cost/schedule/ Functionality, are ability to change its mind. Since estimation is so poor, should examine existing techniques. Do refuse personal memory of similar projects. but this is the dominant strategy for 60-859 of all estimates!
+
+• • •
+Ch.. 4.
+
+Where does Estimation Error Come from?
+
+Error comes from 4 generic sources:
+
+Inaccurate info about the project being estimated.
+Inaccurate info about capabilities of the org doing the work.
+Too much chaos in the project to support accurate estimation.
+Inaccuracies arising from the estimation process itself. There can be a factor of 10 difference in:
+design complexity in the same feature.
+different dens to code the same feature.
+number of defects in original implementation by different dens.
+time for different das to correct & debug same problem. These can all combine to much larger magnitude. A constant process of resolving decisions, gives very high uncertainty to begin with, which diminishes over time. 4 ÷ ¥ a. 5 1075 detailed design complete,
+idea
+
+approved
+
+product definition
+
+VI design complete requirements
+
+complete '
+
+complete i
+
+• • •
+The more refined the definition, the more accurate the definition.
+
+You can't beat this cone of best estimation but you might be lucky.
+
+Initial concept: 0.25. - 4 * Approved product : 0.5 - 2x definition
+
+Requirements complete: 0.67, - 1. 3) * VI design 0.8, - 1.25, Detailed design complete: 0.9, - t.ly
+
+Done. 1.
+
+É? É
+
+Care only
+
+decision,
+
+make narrow,
+
+you variability.
+
+as eliminate
+
+that
+
+• • •
+Common examples of project chaos:
+
+Requirements set well investigated
+Lack of end-user involvement in requirements validation
+Poor designs that lead to numerous eras in the code
+Poor coding practices give rise to extensive buy fixing.
+Inexperienced personnel
+Incomplete or unskilled project planning.
+Abandoning planning under pressure. Best way to address these issues is better project control, no better estimation will help a chaotic project. Project managers other neglect to update cost/schedule estimates when requirements change. You can't estimate a chaotic process - as a first control the chaos.
+step
+
+Project control is a more powerful response then estimation responses. If you can't stabilise requirements, alternative development approaches lik Scrum. XP, Agile....
+
+• • •
+Omitted Activities
+
+Most common source of estimation error, is forgetting to include necessary tasks in the project estimate. Both at project level & individual developer level. Dev's accurately estimate their work, but omit other task, leading
+
+Omitted work in 3 categories:
+
+missing requirements
+missing development activities
+missing non- development activities. I Don't reduce developer estimates, they're probably overly optimistic anyway. More control knobs for estimation is not better.
+Off the cuff estimates are much less accurate than renewed estimates Don't do it.
+
+Less common sakes of error.
+
+unfamiliar business
+unfamiliar technology
+• • •
+Diseconomies of Saale:
+
+larger props require more communication between more people.
+
+Increases exponentially as more people are added.
+
+Don't assume that effort scales up linearly as project size does.
+
+Different kinds of software are developed @ different speeds. Intranet sites is. aviation code.
+
+You can't accurately estimate a project if you don't know who will be doing the work. Individual perf. can vary by a factor of 10! Getting it wrong will give awful estimates.
+
+High-level languages are faster than low-level.
+
+C → C#Have → Perl/Python → SQL. 1, 2.5, G 10,
+
+Most Significant features for estimation are:
+
+Programmer
+Requirement Analyst Capability Capability
+Product Complexity
+• • •
+Product Complexity - Type of software you're building.
+
+Requirements Analyst Capability - Competency here hes single biggest personnel potential to reduce poet estimate.
+
+• • •
+Pat. 2:
+
+Fundamental Estimation Techniques
+
+• • •
+Estimating size refers to scope of technical wall of a given feature set.
+
+Project size: small: 5 or less technical staff.
+
+Can't use statistical methods, because individual productivity variations drawn out other factors.
+
+Large: 25 people or more, 6-12 months or more.
+
+Statistical methods to start with, when individuals contributing are not known, just X web day
+
+" Y DBA' Top-dan approach.
+
+2 Architects
+
+i. bottom - up approach when you know the people involved & the wake is much more well defined.
+
+Medium: 5-25 people, 3-12 months.
+
+• • •
+2 development styles: Iterative & Sequential What 9 of equine mats are defined up front,
+
+us. & defined after construction is underway. Development stages:
+
+early: beginning- requirements mostly defined. middle: fist 2- 4 iterations of building Glad.) late: mid-construction to release.
+
+Applicability of Techniques.
+
+Group Reviews / Calibration w/Projet Dak What's estimated:
+
+Size, Effort, Schedule, Feature,
+
+Size of pat:
+
+SML
+
+ML
+Stage"
+
+Early-Mid
+
+Mid-Late
+
+Accuracy Possible:
+
+Mad-High
+
+High Iterative/Sequential
+
+Both Both
+
+• • •
+Count, Compute. Judge Sometimes you have data you can actually cant I use.
+
+If you can't count the answer directly. you should compute the estimate from components. Judgement alone should be the last resort. Software projects produce numerous things you can count: - ne. marketing requirements
+
+features
+use cases
+stories
+In the middle of the project, there are more specific
+
+I - web pages
+
+reports
+things you can cants Eng. requirement,
+
+function paint
+
+change requests - database tables
+late in the prophet, can cant even more specific things:
+
+code already written -tasks
+defects reported - L0C/classe, decide what to count based on a few goals
+• • •
+# Look for something you can cant sooner
+
+rather than later, in development process. Find something to count that's highly correlated at the size of the software you're estimating.
+
+Must be relevant to the project!!
+
+Try to cut something that will produce a
+
+statistically meaningful average. Rot items).
+
+Find something easy to cant.
+
+Collect historical data that allows you to compute an estimate from a count.
+
+Expert judgement is the least accurate measure. Historical data + computation is free of biases. Don't tweak these estimates to conform to your professional judgement.
+
+• • •
+Organisational Influences:
+
+software complexity & time constraints committing to stable requirement.
+
+can we remove problem team members?
+team free to castrate on the project? Or will there be interruptions from other work?
+Can we add team members as planned?
+Can we depend on project members staying, or do we have high turnover?
+Using data avoids subjectivity & unfounded optimism. It's difficult to change organisational productivity. so assume the next project will go the same as the last one - don't allow optimistic folks to suggest for any reason it'll somehow go better.
+
+.
+
+"Productivity is whatever the data
+
+it
+
+So
+
+is aye
+
+.
+
+• • •
+Data to collect:
+
+Size. (LOL (something else).
+
+Canted other software is released. (staff months)
+
+Effort
+Time (calendar months)
+Defects (classified by severity) Useful even after 2-3 projects, going formed. Start small, but start.
+Issues relating to effort measure,
+
+Do you cant time in hous /day, / other?
+How many hours /day do you cant? 8 or actual hours applied to project.
+Do you cant unpaid overtime? holidays? training?
+Do you make allowances for company meetings?
+What kind of effort do you cant?.
+Testing, 1st level mgmt? Documentation? Requirements? Design? Research?
+How do you cant time that's divided across multiple projects.
+How do you cant time spent supporting sales calls/shes?
+How do you cant fuzzy- front-end time? Firming up requirements,
+• • •
+Issues related to Calendar the measures:
+
+What signifies the project start? Initial discussion? /Fully
+When does the project end? Staffed?
+Issues relating to defeat measures:
+
+Do you cant change requests as defects? or only those that are ultimately classed as bugs?
+Do you cant coding defect found before alpha/beta release?
+Do you want defects found after release? When the project is already considered "done"?
+With historical data. start small.
+
+Easiest to collect while you go, or a periodic basis. Calibration. Trying to convert the data you collect into a model.
+
+our dens write X line, per staff month.
+a 3 person team can deliver X stories per calendar month.
+Our team is averaging X staff has per use case to create the use case, a Y staff has to deliver it.
+Testers create test cases at a rate of X hours per test case.
+Y lines of code per Fratton point. -Defect correction ang X hours
+• • •
+These models are all linear though. Use data from the actual protect to estimate other task, currently in the project.
+
+Should aim to switch from org. average data to protect specific data as soon as possible.
+
+Individual Expert Judgement.
+
+Use of structured process
+Use of estimation checklist
+Estimating task effort in ranges.
+Comparing Task estimates to actual. By for most common, 5/6 estimators use it as primary technique. Make most effective use of your expert. They knew the tasks & stack but are they being fully used? Using a good checklist 4 taking everything uh consideration? Intuitive judgement is. Structured judgement.
+• • •
+Estimates from people actually doing the work will be most accurate. (No surprise).
+
+But still, higher ups will sometime try to override. Split large tasks into smaller tasks before estimating. No task should be over 2 day, effort. Larger tasks contain too many places where wak can hide.
+
+Gotta use ranges: Best & Worst Case. These compared to single figure estimates, highlight the problem w/ optimism. PERT- Program Evaluation & Review Technique Use expert judgement for best case, most likely, west case and calculate:
+
+Expected Case:(Best Case + (4" Marlikely (a) + Worst 6.) /6 But, estimates are often optimistic, so can adjust slightly. Until estimates are more accurate. try:
+
+Estimate - Best + 3x Mallik + 2x Worst
+
+64
+
+• • •
+Checklist for individual Estimates:
+
+↳ Clearly defined what's being estimated? ② does estimate include all kind of work needed for completion?
+
+does the estimate include all functionality areas? is estimate broken down into small enough chunks to expose hidden wok? 2 did you look @documented facts from past work? Get money) t is it approved by the person who will do the male? D is productivity assumed based on similar work? I does it include best/worst/most likely cases? ② is worst case really the worst case? should it be worse? he is the expected case computed appropriately? I have assumptions been documented?
+
+② has situation changed since estate was prepared? Then need to compare estimates to actual. Fill in actual, when work is considered done. Calculate
+
+Magnitude of Actual - Estimate Relative Error = Abs (
+
+Actual For all tasks, check this, check it best <actual <worst.
+
+• • •
+As estimates improve, should see Aug. MRE 1.
+
+should see % actual within range A.
+
+When comparing, try to understand what went right, what went wrong. I adjust.
+
+Essential to have a feedback loop 4 allot more data.
+
+• • •
+Decomposition & Decomposition.
+
+by Feature/Task
+
+Work breakdown structure
+
+Imputing best 4 worst cases from std.de. break it down, estimate each bit separately, add. Great idea, just avoid pitfalls. Takes advantage of the law of large numbers. Decomposition via activity-based Work Breakdown Structure. Small -to-medium Projects.
+Create → Plan → Manage → Review → Rework /Defects. Std Dev = Sum (Worst Case Est. - Best Case Est)
+
+6 for less than 10 tasks. five.
+
+For more, should apply the formula to each task. Compute variance, sum, Sgt.
+
+Std. Dev:
+
+sooty [(
+
+worst
+
+expected
+bet
+
+worst 6
+
+variable based on
+
+accuracy.
+
+use 5. D. to provide likelihood
+
+• • •
+Estimation by Analogy.
+
+May have a prior prophet to compare to, or use its constituent components to get estimates for new project components.
+
+Can then address uncertainty by expressing the estimate in uncertain terms (1254).
+
+Ultimately, impact of uncertainty will flow through to business plans & commitments.
+
+Can move commitments to act conservatively, but should not bliss estimates
+
+• • •
+Proxy-based Estimate,
+
+Fuzzy logic
+Standard Components
+Story Points
+Fshirtsizing Can't measure what you really want? Find something which acts as a proxy, and use historical data model to convert proxy value to rough desired value, and cant, don't guess. Useful for whole project /whole iteration estimates, but not for detailed task-by-task /feature-by-feature estimates.
+• • •
+Fuzzy logic
+
+Estimates can usually classify features into very small, small, red, large. v. large.
+
+Feature size No. features
+
+V. small tug likes/feature
+
+125 23 small 250 15 med 500 10 large 1000 30 v. large 2000 8
+
+Empty 125×23 250×15 500×16 1000×30 2000,8 = 60k Wales best ul sizes calibrated from post historical data.
+
+Important to all be on same page about her to categorise size of a feature.
+
+Train estimates so they classify features correctly. Document specific criteria for each size so they can be learned & sized appropriately.
+
+Need at least 20 features to make use of this.
+
+• • •
+Can also use proxy for standard components: eg Dynamic Web Page
+
+State Web page.
+
+DB tables
+
+Reports
+
+Bust ss Rules
+
+Some ideas, but can make use of best, likely, worst historical data Doesn't rely on canting, but judgement, so can be flawed.
+
+Story Points - a variation of fuzzy logic. Normally assigned a numeric value instead of ordered category. Powers of 2 a Fibonacci Sequence
+
+1. 2.48, 16 112.3, 5. 8. 13 They're a unitless measure. doesn't translate into L0C. shaft days, calendar time. But all done at the same time using the same scale, free from bias. Plan next iteration, where story points - effort. Can then calibrate to past iterations
+• • •
+Problem w/ numeric stories is the numbers imply a ratio, and unless very skillfully applied. will not be accurate.
+
+Numeric story points may be no more valid than ordered categories v. small → v. Large. T-Shirt Sizing
+
+Goal of software estimation is not pinpoint accuracy. but estimates accurate enough to support effective project control. T-shirt siting is great for non-technical folk, who don't want staff has, but an idea of cost of a feature. Classify feature size, so you can give them out to sales/marketing. They understand value of a feature, so can prioritise requests accordingly. Allows early protect decisions.
+
+Useful to combine cost of value to prioritise m a table.
+
+Try to cant & compute instead of
+
+using story point/t-shirt sizing it possible
+
+• • •
+Expel Judgement in Groups. Useful early on, estimating a large project, or large unknowns
+
+have each team member make their estimate individually, then compare.
+DON'T just avg. estimates & accept that. need to discuss difference, m results.
+arrive at a consensus estimate that the whole group accept, If there's an impasse, can't go forward, must discuss.
+Group reviewed estimates almost always more accurate. Should have 3-5 experts at different backgrounds.
+
+Delphi.
+
+Wideband
+
+Ineffective if not used properly, so follow the procedure.
+
+Coordinator presents each estimator w/ spec & estimation fam. Prepare initial estimates individually.
+
+1. 2 3 4 5 6 7 8
+Group meet, discuss estimation issues. If all agree, assign someone devil's advocate. . Estimators give estimates anonymously to coordinator.
+Coordinator prepares summary of estimates on iteration form.
+meet to discuss variations m estimates. . Anonymously when to accept estimate. Unanimous, or go to step 3. . Use values generated as expected case, can also generate best & worst case. I . yang. x
+months
+
+• • •
+Wideband Delphi of group produces bad initial estimates. Not appropriate for detailed task estimates. Expensive way to estimate, requires meetings. Useful if you're waking m a new business area, new tech, or new kind of software.
+
+Useful for creating "order of magnitude" estimates at product definition or software concept time.
+
+Tends to sharpen the definition of the scope of work. Help, flush out estimation assumptions.
+
+Wide care of uncertainty, can be invaluable process. Effort & time
+
+so
+
+É:
+
+l
+
+✓
+
+É""
+
+l
+
+14
+
+15 B
+
+Schedule, months 12
+
+11
+
+• • •
+Always present estimations to stakeholders as a range, which should narrow one time as the project progresses. Don't use point in time as this will be subject to anchoring, even if the initial estimate isn't well founded.
+
+Project is constantly being re-estimated, but can present re-estimates after each milestone/release.
+
+Should feel confident m tightening your estimates.
+
+• • •
+Standardised Estimation Procedures. Well defined process for creating estimates, which is adopted @ org level & provides guidance @ Individual project level.
+
+Protects against poor estimation practices, like off-the-cuff estimation 4 guessing.
+Protects against arbitrary estimation changes because a high-powered stakeholder doesn't like a specific result.
+Encourages consistency of estimates process.
+Allows you to retrace your steps in the event of a poor estimate. Shep, m a standardised procedure 2 Emphasises canting & computing or judgement. I Calls for multiple estimation techniques & comparison of results. ② Communicates a plan to re-estimahe@predetmedpoinbmprject.­tl Define how estimation approach changes over project. ② Contains a clear description of an estimate's inaccuracy. ↳ Defines when an estimate can be used as the basis for a project budget. I Define, when an estimate can be used for intent. commitments. I Calls for archival of estimation data & review of process. Must treat this as a standard.
+• • •
+Should keep does m a "Software Eng. Standards" page. Fit it into a stage-gate process.
+
+Discovery → Scoping Planning- Der → Testing → Land
+
+4 Validation Should Co-ordinate Standard Estimation Procedure with SDLC.
+
+Example Standardised Estimation Procedure for Sequential Project. I. Exploratory Estimate (Approved Product Details)
+
+Create one estimate for each of-bottom up, work breakdown structure
+standard component an estimation by analogy A similar projects.
+Use Wideband-Delphi to carnage to single point nominal value. N.
+Preset estimates as a range, -504,1=+1504
+Don't share N.
+Not to be used for budget. only for moving to next stage.
+• • •
+I Budget Estimate (Product Design Complete) Create new estimates using 2 approaches from step 1. Wak Breakdown structure & standard components. Create function points estimate. Calibrate w/ historical data. Iterate estimates until they're close together. Ind ang. N. Range will be say 0.8N -1.25N.
+
+Allocate N budget. -25N contingency budget.
+
+I- Preliminary Commitment Estimate.
+
+Detailed task list. Review by all.
+
+Its estimate effort required, at Best/Want/likely. Calculate task nominal,:[(Bert 4- likely + Worst) / 6 Compare this with
+
+Computer rental estimate as 2.x higher + lower
+
+Compute estimate ranges as I. ON - I Publish 1. IN externally as commitment.
+
+.
+
+3 t
+
+we
+
+.
+
+internally.
+
+1. ON
+I
+
+- final commitment estimate (after several interim releases). Re-estimate with calibrations using work done so far.
+• • •
+⇐ Project can be re-estimated at any time in response to
+
+Major changes m protect assumptions.
+
+change m requirements, shalt availability, schedule targets
+
+Prophet Completion.
+
+\
+
+Collect t Archive data, an actual project results for future use.
+Review accuracy of estimates
+Analyse root cause of any major events * Assess whether same accuracy could be produced w/less effort. * Propose revisions to Standard Estimation Procedure.
+Must have a period of reflection about estimates created. results achieved, accuracy of estimates.
+
+Which technique, produced most accurate results. Definitely look @NASA,
+
+nobody ever says "how long do you think this will take?" - All done by canting.
+
+• • •
+Part 3: Specific Estimation Challenges
+
+*
+
+• • •
+Special Issues in Estimating Size. Measures of size:
+
+Features - Use laser -DB tables
+User sturdy - Function Points - Interfaces - LOC
+Story points - Web Pages - Classes
+Requirement - GUI components - Function,/subroutine, most common.
+LOG easy to collect
+
+lots of historical data exists. ← effort for LOL is approx constant across programming languages
+measurements all for comparisons acres profit
+* Lockhart month does not take into account dis economies of scale.
+
+error prove due to vastly different coding rates for different kinds of software.
+
++ Lol can't be used to cut on IG assignments. due to
+
+vast difference, in productivity between programmes. * different project code complexity may miscalibrate things. * LOL difficult to estimate directly, must be estimated by proxy. "
+
+LOL is terrible measure of size, but all the others are worse."
+
+• • •
+Special Issues in Estimating Effort. the estimates compute effort from a detailed task list. early estimates are most accurate when computed from size estimates.
+
+Biggest influences are - kind of software being built
+
+organisation productivity
+Take an informal comparison to past projects by using schedules, sizes effort, to compute productivity rates,
+
+Can use Construe tools. Can use industry average L0C rates for your type of software! Hey useful.
+
+Combine estimates & take any
+
+Weight data from you any more heavily than industry data. Not all estimates are equal.
+
+size up effort required.
+
+• • •
+Special Issues in Estimating Schedule Follows on from effort.
+
+Schedule m Month, - 3 × Staff Month" Coefficient will change at calibration.
+
+Not intended for small projects or the projects.
+
+you're able to adjust hear size to suit schedule.
+
+Difficult to get an accurate schedule from effort using art. Best to use historical project data.
+
+All researchers have concluded that shortening the nominal schedule will increase total development effort.
+
+Larger teams require more co-ordination I mgmt overhead.
+Longer hears more communication paths, more chances to miscommunicate, meaning more errors, more correction. Shortest possible schedule produces most errors.
+Requires more wak to be done m parallel. Some wok will depend on unfinished /detective work. Adds re-work.
+Comet compress a nominal schedule by more than 25%. Assumes
+
+• • •
+Extending the schedule beyond Nominal schedule can reduce cost if you reduce hear size.
+
+Team size should ideally be 5-7.
+
+Beyond that, dis economies of scale begin to kick m. effort obviously increase, as you add team members, but m 9- 11 member, schedule also Mcreases!
+
+Beyond 15, she.dk is flat, but effort dramatically increased.
+
+Increased project site means higher percentage of the should be spent on architecture & system test.
+
+Small large 10% 20% 70% 45%
+
+35% Ash
+
+Build
+
+Test
+
+Rough 20%
+
+• • •
+Estimate Presentation Style Essential to Document assumptions embodied in the estimate. Several categories.
+
+Which features are required. not required to How elaborate certain features need to be.
+
+Availability of key cares ② Dependencies on 3rd party performance a Major unknowns
+
+② Major influences & sensitivities of the estate E How good the estimate is 2 What the estimate can be used for.
+
+Sets the expectation that the estimate is subject to variability.
+
+Quantify the risks:
+
++ 2 months if extra features.
+
+0. 5 month it her der took works better than expected.
+IEEE 4 ACM jolly decided:
+
+"Software Developer have a professional responsibility to include uncertainty in their estimates".
+
+• • •
+Politics, Negotiation & Problem Solving. Technical Staff are fairly good @estimation, but poor at defending estimates.
+
+74 technical staff introverts.
+
+" 3 of genere population.
+
+Executive, often to years older, 4 were highly placed. Negotiation is part of their job.
+
+Don't negotiate the estimate: it's founded in good practice, but can negotiate the commitment. It's problem solving, not negotiation.
+
+Estimate Commitment Target Tech Joint Non-Tech
+
+• • •
+Estimation Sanity Chek Standard procedure used?
+
+free from pressure that would bias result? if negotiated, was it purely inputs negotiated? not estimated process itself?
+
+Expressed w/ precision matching it's accuracy? Were multiple converging techniques used? D
+
+D
+
+E
+
+② productivity assumption realistic? Based on historical data?
+
+Is schedule realistic? at least Zximonths? ② Were workers involved m estimates? Reviewed by an expert estimator?
+② Does it include non-zero allowance for risks an
+
+effort & schedule?
+
+⇒ Is it pot of a series of estimates which will
+
+narrow as project progresses?
+
+1 Are all elements of project Kwak included?
+
+10Th, highly accurate
+
+7- 9, maybe optimistic, but can pride project guidance <6
+
+Shit. No meaningful use to project or anyone.
+
+
+
