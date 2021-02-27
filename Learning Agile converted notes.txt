@@ -1,0 +1,817 @@
+Learning Agile Scrum. XP, Leon. Kaba 
+
+• • •
+Agile Promises
+
+deliver software on time
+high quality software
+well constructed & highly maintainable software.
+makes uses happy
+helps das work normal hours.
+Strong focus on changing your team's mindset. Agile is a set of methodologies.
+
+helps your team think more effectively.
+
+work more efficiently, make better decisions.
+
+Also a mindset, opens up planning, design & process improvement to the entire team.
+
+Difference between successful teams & others is this mindset.
+
+Daily stand up is meant to make everyone feel collective ownership of wok, and responsible for the plan. Team makes decisions, not save manager.
+
+Don't give status, pride input for collective decision making. Good der might have opinions about the project as a whole.
+
+• • •
+Understanding Agile Values
+
+4 Care Values:
+
+Individuals & Interaction, over process & tools.
+Working Software are comprehensive documentation
+Customer Collaboration over contact negotiation to change me following a plan.
+Responding
+Teams that use waterfall processes successfully usually have common characteristics:
+
+communication
+
+Practices
+
+God
+Good
+Great requirements gathering then waterfall prob are on effectively, it's because the teams take to heart many of the same values, principles and practices that agile follow. "Agile" shops that follow practices without really having the mindset & principle, fall into the same problems as waterfall.
+Waterfall:- write down all requirements & strictly follow the plan.
+
+focus on documentation- difficult to respond to change. follow effective software practices 4 principles.
+Leans that make it work
+• • •
+When agile prophets fail. it's often because of cultural & philosophical differences between waterfall & agile methodologies.
+
+lack of eep.nl using agile methods
+company philosophies at odd u agile values
+external pressure to follow waterfall practices
+Teams often haven't really changed their ways from old waterfall. Just adding agile practices isn't enough to break them out of problems that cause conflict & avoidable changes. They're just became the most efficient waterfall hear they can be. Split perspectives leads to different team roles focusing on areas they're already good at, and miscommunication of each person's priorities creeps in. Same old problems.
+
+Better Communication helps a team manage change better.
+Planing as a team is more important than over-documenting a plan.
+Software projects are unpredictable.
+Many tears by going agile by adopting great agile practices the impure on what they already do well.
+Adopting individual practices is the most common way to adopt agile today, but it's not the most effective path to agile.
+• • •
+Agile manifesto helps teams see the purpose behind each practice.
+
+"A great tool can sometimes help you do the wrong thing faster." Team needs to agree on how to implement effective practice, that help them act in a more agile fashion.
+
+Stand ups, retrospectives, user stories, can all be great tools, but only if the whole team embraces these as opportunities to better communicate (interactions), rather than a tick box exercise, which can quickly became "What's your status?". "Did we get it all done?". "Stakeholder said X".
+
+Team should focus on building software that adds value. documentation is merely a means toward, that end.
+
+Different Roles in a team "do" agile by implementing the agile practices relevant to their area, burn down charts, CIKD & pair programming.
+
+Easily done you'll find entire books of interest to your area helping you became more agile, while mentioning nothing of the other aspects of agile.
+
+like velocity 4
+
+• • •
+An Agile Methodology is a collection of practices combined with ideas, advice, and a body of leakage 4 wealth of experience among practitioners.
+
+Comes A different roles & responsibilities for everyone, and recommends certain practices
+
+Scrum
+
+Product Backlog
+
+Sprints:
+
+× .
+
+.
+
+list of requirements for software, prioritised for value
+
+to-do list.
+
+.
+
+Goal of delivering heretical ity to sponsor.
+
+Enough stuff to do for
+
+2 weeks
+
+What I did yesterday. Daily Standup: Communicating about the
+
+project, risk shag,/opportunities Scrum Master: leader/coach/shepherd
+
+Your manager, or tech lead checking up on you. These practices can be adopted in a way that doesn't truly reflect values & principles of agile.
+
+"Scrum-like"
+
+, but not scrum.
+
+• • •
+XP prescribes specific development practices, aimed at improving collaboration with uses, planing, developing 4 testy. XP helps the team build simple flexible software designs, easy to maintain & extend.
+
+Adopting an entire methodology helps whole team avoid everyone just using practices specific to their role. Need to change the way they think about their job. Lea/Kaba are not methodologies, but mindsets.
+
+XP LEAN
+
+SCRUM
+
+Agile Manifesto molded m then all!
+
+A team that only focuses on individual practice, can lose sight of the larger goal of better communication & responding to change.
+
+• • •
+Scrum teens can spend a whole 8 her day planning for the next 30 days. They're all engaged in the process, care about the outcome, get a feeling that this planning will allow the rest of the iteration to go well.
+
+• • •
+The Agile Principles
+
+1. Highest priority is satisfy the customer w/ early lcantinuous delivery.
+2. Welcome changing requirements, even late on. Helps competitive advantage.
+3. Deliver waking software frequently, weeks. Shorter-better.
+4. Most effective communication is face-to-face.
+5. Business people Ideas must work together Daily.
+6. Build projects and motivated individuals. Give them the environment 4 support needed, I trust then to get the job done.
+7. Working Software is the primary measure of progress.
+8. Agile processes promote sustainable development. Should be able to maintain constant pace indefinitely
+9. Continuous attention to technical excellence & good design enhances agility
+10. Simplicity - maximising work not done - is essential.
+11. The best architectures, requirements & designs emerge from self-organising teams.
+1. At regular intervals, the team reflects on how to become more effective, then hires & adjusts its behavior accordingly.
+• • •
+# 2: Welcoming Change on late on.
+
+Nobody gets in trouble when there's a change.
+Everyone's m it together, I we're all culpable.
+Don't sit on the change until it's too late.
+Stop thinking of changes as mistakes.
+Learn from the changes. # 3: Deliver frequently. Project manager no longer a task manager 4 commander but job is to keep everyone aware of big picture. Timbering is the point of sprints. Working software are comprehensive documentation. The right amount of documentation is just enough to build the software. Might mean more or less, depending on how well the team communicates, or their build practices. Unless it's required the team doesn't make the documentation. Managing changes in excessive documentation is a pain. The sink.
+Building documentation can become a goal into itself.
+
+• • •
+# Build Projects and motivated individuals. Profess work best when everyone in the company understands what makes the software valuable to the company.
+
+Projects can breakdown when people don't see the value on the software, or aren't rewarded for building it well. Common "motives" against agile:
+
+giving programmes poor pet. reviews when code neurons routinely turn up bugs, and rewarding then for clean code reviews.
+rewarding lashes for number of bugs they report. This encourages nitpicking & discourages them from partnering ✓ the programmes, because it sets up an antagonistic relationship.
+basing BA perf reviews on amount of documentation they produce, rather than the amount of knowledge they've shared a team.
+Everyone's pet should be based on what the team delivers. Each person should not be discouraged from looking beyond the strict confines of their role.
+
+• • •
+Comprehensive documentation & traceability matrices are particularly insiders- encourages a "cover your as" altitude. Overly comprehensive Documentation increases risk of ambiguity, misunderstanding, and miscommunication between team members.
+
+tyre on an agile team feels responsible for the project
+
+feels accountable for it's success.
+
+and
+
+# 7: Working Software is the primary measure of
+
+success.
+
+If a manager promised to deliver something but didn't. it might be embarrassing, but it should be impossible to hide because the measure for progress is working software. Status reports are bullshit- show me the software running & delivering value.
+
+# 8: Agile promote, sustainable development.
+
+Only promise to deliver what they can actually build.
+
+• • •
+# 9: Continual Athaliah Technical Excellence and Good Design
+
+Enhances agility.
+
+Fastest to deliver, because it's easiest to change. # 10: Simplicity is essential
+
+dependencies increase the likelihood of one change cascading out to another part of the system. Domino effect. All about maximising the amount of work not done. # 11: Best Architecture, Requirements. & Designs come from
+
+Self-organising teams.
+
+Self- organising teen doesn't have a specific Overly complex designs can come from too much up-front planning.
+
+requirements or design phase. Team works on the project, breaks it down he use stories, starts working on the ones that deliver most value to the business.
+
+Everyone shares responsibility for the architecture. Architects & designers no longer work in isolation.
+
+Agile Architects use incremental design.
+
+• • •
+# 12: Regularly Reflect on how things are going.
+
+The thing, to become more effective. Need to be comfortable being brutally honest. This is one of the most neglected principles. Teams don't set aside the time to do it.
+
+• • •
+Cha.
+
+Scrum & Self-Organising Teams
+
+Product Owner, 3 roles: Scum Masher, team member.
+
+DO works w/ rest of team to maintain 4 prioritise a product backlog of features & requirements that need to be built.
+built in time boxed iterations called sprints. Start of sprint, team does sprint planning to determine which features they'll build. this is the sprint backlog, Lean works on it during sprint.
+Every day, heon holds shot face-to-face meeting (daily scrim to update each other on progress made discuss roadblocks. What have I done? what Will I do? Roadblocks in my way?
+Scum Masher keep things rolling by waking a team to get past roadblocks & issue, they've asked for help with.
+End of sprint, working software is dead to PO8 stakeholders m sprint review. Team holds a retrospective to figure out lessons learned, so they can improve the way they run their sprints, and build software in future. Need to do more than just follow basic scum pattern, need to be self-organising. Team must understand "collective commitment".
+• • •
+Sprintphanning 8ha,/30 day sprint. PO brings prioritised backlog for product, items stakeholders and users have bought mh.
+
+Part I: 4 hours.
+
+Team picks stuff that will be delivered, based on value, estimations 4 capacity.
+
+Team agrees to demo this working on 4 weeks time. Part 1 :
+
+teams figure out the individual tasks they'll do to implement these items. At the end of the sprint planning, items selected became the sprint backlog.
+
+Daily Scrum
+
+Scrum Master, PO, members must attend Interested stakeholders may attend, but must remain silent. 15min tops. Each answer 30s. No discussion, follow up after.
+
+Each sprint time boxed. Team can get outside help. but outside cannot tell hear how to build their software. It accommitted, must tell P0 immediately if sprint in danger. PO works w/ stakeholders to reset expectations.
+
+Run out of work? Bring in more.
+
+• • •
+End of sprint, hold demolsprint review meeting a stakeholder/users. Only demo then, completely finished. Only present functional working software, nothing intermediate. like diagrams /schemas.
+
+Post Sprint retrospective.
+
+What heat Well?
+
+How can we improve?? + nonfunctional then, to
+
+backlog. Keeping the team committed
+
+Never push members away from planing.
+Don't allow Scrum Masher to make the plan, her keep to the plan, the plan is made by the team.
+This is encouraging the team not to plan. as someone else will do it - leaves the team feeling less responsible and less committed to the commitments they'll make. Individual members don't commit to individual tasks assigned to them, everyone as a whole commits to the sprint.
+• • •
+Scrum Values:
+
+Each person is committed to the project's goals. Team members respect each other.
+
+Everyone is focused on the work.
+
+The team values openness
+
+Team members have the courage to stand up for the project.
+
+Basic pattern for scrum outlines team roles & meeting pattern.
+
+But to really "get" Scrum, the team members need to go beyond just implementing practices - they need to understand I put into practice self-organisation & collective commitment. Teams are delivering valuable software I feel committed to the product outcomes.
+
+Teams need to internalise scan valves to be effective. Teams self-assign their tasks, when they're done with the comet one. Dare during current daily standup. Much easier for team to spot problem holes than project manager.
+
+• • •
+How to hold an effective daily scrum Act like wire Cenni
+
+hed to the
+
+r int cal. Make sure everyone is feeling accountable and committed, have we collectively been meeting previous commitments? Take detailed status meet
+
+offline.
+
+ngs Identify problems - don't solve them. Only 1min discussion. Take turns
+
+first. No specific person is "keeper" of the schedule, nobody more important than somebody else. Keep everyone listening by mixing it up, and hearing from everyone.
+
+an't treat it like a ritual Everyone needs to be present & engaged. Rituals fade over time because people treat them as perfunctory.
+
+PO also answer 3 Gs. Ever are
+
+artie,
+
+ales.
+
+Testes, BA, PO, anyone else. All genuinely committed.. PO highlights what's especially important to users/company
+
+• • •
+Don't treat it like a sh
+
+meeting.
+
+Keep 2 purposes at forefront of everyone's mind
+
+Keep everyone on the team informed
+keep management informed. Make sure this isn't just one way communication, and not always project manager asking questions. E task.
+t
+
+is
+
+Don't look for roadblocks in what you're currently doing, look ahead.
+
+ten if it needs to be chen Chen
+
+the
+
+Part of visibility-inspection-adaptation cycle, makes teen self-organising
+
+Breaking a project into deliverable phases is incremental development, but Scrum is about understanding the value that the software delivers, and changing course if there's a way to deliver more value. Iterative Development.
+
+• • •
+Product Owner makes or breaks the s.int.
+
+Understand, what company needs rest, brings knowledge back to teen.
+Understands what software features the team can potentially deliver.
+Figure out which features are more valuable to the company
+Work out w/ team which features are easier/harder to build.
+Use leakage of value/difficulty/uncertainty/complexity to help hear choose the right features to build in each sprint.
+Bring that knowledge back to the rest of the company, to help them prepare for next release of the software. Owns the Product Bally Helps team decide what goes into sprint backlog. PO must have a lot of authority, and use it. Needs a good sense of what's valuable to the company. Important for team I DO to agree on what definition of "Done" is. "Done" means accepted by the Do I delivered to the rest of the company. Without this definition, so much confusion arises. With a clear definition, everyone easily agrees on current state.
+• • •
+Team doesn't get credit it the item isn't "Dane". Then goes back into the product backlog.
+
+EVERYONE is responsible for not getting that task "Dae". Valuable because it makes sure the team never gives the users the impression that they delivered value that wasn't actually delivered, re. "Done".
+
+Better to be conservative about what commitments were delivered.
+
+During sprint review, team has to look the users in the eye and say what they've delivered, and what they have not - keeps the team feeling a sense of collective commitment.
+
+Even though users & team talk I collaborate, it's the PO who actually accepts the work on behalf of the company. Rarely in case of poor planing or unforeseen circumstances, PO can halt the sprint & reset everything. This breaks trust with the users & company, last resort.
+
+• • •
+Elevate
+
+Goals motivates
+
+Ever are on the team. y
+
+y Paying people isn't enough to get people to really "cane". You -can buy someone's time I effort, but ingenuity can only be given willingly.
+
+The leader's job, really, is to try to frame the activity in such a way that people can understand the value of it. They need to feel that their work is important. On an agile team, software "value" is some measure of making your user's lives better.
+
+Someone using your software & saying thank-you. B much more rewarding than a company executive saying
+
+n " "this helped the company earn more money.
+
+Deus are highly motivated by pride of workmanship. # 1 Agile Principle:
+
+Our highest priority is to satisfy the customer through early & continuous delivery of VALUABLE SOFTWARE. most effective motivation for teams is making them believe they are providing value.
+
+• • •
+How to Plan & Run an Effective Scrum Sprint. # Start with the backlog- which means story the users. # Be Realistic about what you can deliver. # Change the plan if it needs to change. # Get everyone talking about VALUE Value
+
+µ
+
+=
+
+Throwing everyone into the same daily scrum, just because they're on the same team, although not on the same project.
+
+BAD.
+
+Planning at the last responsible moment encourages everyone to accept the constraints as they arise, and it set arbitrary constraints. Team stays open to change.
+
+• • •
+User stories: putting yourself in the user's shoes, envisioning them using the software for a reason, so you don't build something they dont want/want use. "As a a type of user?.
+
+I want to <specific actions, so that <achieve end goal?." Explains WHO, WHAT, WHY.
+
+Take user stories, define definition of done.
+
+break down into tasks, estimate site.
+
+Team has to understand Why we use user stories. Otherwise the concept seems stupid.
+
+Story Points & Velocity Fuck this bale's ideas. Compare stay to past stories
+
+Numeric story points are a fucking terrible idea. Too much temptation for comparison, across sprints, across teams. Would be great to measure using "development hours". NOT "employee hours. Only works in an environment of trust, where team doesn't feel as though they're being micro­managed. Can then have some idea of inefficiency. Need to make it clear that this isn't a punishable metric.
+
+• • •
+Burnden Chat
+
+actual effort renaming.
+
+É rough line at target progress
+sprint progress.
+
+I
+
+÷
+
+If you don't get self-organising tears & collective commitment, you don't get scrum.
+
+• • •
+Is the team Ready for Sam? Ready for commitment? ok with:
+
+trusting team to decide what gets delivered
+no "single wrinyable neck"
+listening to comments & feedback
+whole team willing to take responsibility for successes & failures? Does everyone on the team feel the same. Ready for respect? oh with:
+trusting team with doing the right thing. ⇒ give the hear enough time to do work, not demanding overtime.
+trust team to choose tasks right for them & project, rather than relying on strict rules 4 RACE matrix. Ready for focus? oh wi
+never asking someone to do work that's not part of the sprint.
+not asking someone on the team to take on work that not everyone has agreed to.
+Putting what's most valuable to the company at top of the pile
+Not being able to demand that the team wales on tasks m a specific order.
+• • •
+Ready for Openness? Ok w
+
+Deus thinking about business value, and the work of everyone else on the team in these terms.
+Everyone discussing pages towards project's goals?
+Everyone thinking about users? about project planning? Ready for Courage? on u
+Not being able to blame lack of planning on project manager?
+Not being able to blame poor requirements that dont hit the mark on your Product Owner or Senior managers?
+Taking time to really understand your users?
+Building something that isn't perfect, because your users needed something "good enough"?
+If these are all yes. Scum is a gold. Otherwise there's work to do on cultural values.
+
+Sprint Dono must always she something. Even infrastructure & DB changes. (Non-functional)
+
+Successful scum heon, have members who talk about "WE achieved". "OUR blockers", instead of me & my tasks.
+
+• • •
+Sprint Planning, Daily Standup, are not enough for high performing teams. It's communication 4 collaboration. Instead of person by person, they go through the sprint backlog, highest to lowest priority. End when daily scam limbo expires.
+
+Keeps everyone focused on delivering value.
+
+Daily scrum is a formal inspection meeting. where the goal is improve the quality of the team's planning tammication. Important to keep the daily scrum shot, concise, focused on goals & communication. Format is loose though, can be
+
+person by person, 30s
+browse sprint backlog
+one person present current state of sprint (different person eat time, everyone else challenge assumption, & ask questions.
+Don't let individuals "own" tasks /stories.
+
+• • •
+XP and Embracing Change Primary Practices
+
+Programming Practice,
+Integration Practice,
+Planning Practice,
+Team Practice
+④ Test First Programming - higher quality in software. ② Pair Programming- more eye, a code, catch bugs before they're
+
+written
+
+One person types, the others observe.
+
+Reduce fatigue, can swap who's typing.
+
+Less likely to get distracted!
+
+Constant discussion & brainstorming. More innovative. Hold each other accountable ul good practices.
+
+10 minute build - entire codebase, + run unit test.
+
+longer than 10 mine, team is less likely to run it. Quick answer to "Is our code working so far?
+
+3
+
+• • •
+④
+
+Continuous
+
+Integration
+
+lets many people work on single set of source files simultaneously. Can be difficult actually integrating changes to codebase though, if multiple changes are in-flight.
+
+Useful to have a physical "build-token", like a rubber duck. to indicate which
+
+currently holds authority for this. pair
+
+Planning Practices are similar to Scrum.
+
+⑤
+
+weekly cycle -planning meeting
+stories -estimation Also quarterly planning, to look at big piture, themes. Discuss internal & external problem, they're experiencing. Long standing bugs. repairs. Like a retrospective, but with a wider scope.
+Slack- adding minor store, to the iteration, only to be done at the end. Can easily cut this sleek it there are problems. Still only deliver "Done" software that can be deme'd to stakeholders. Team practices
+
+⑦ Sit together - have easy access to your colleagues 6
+
+• • •
+⑧
+
+Informative Workspace,
+
+Work environment set up to automatically communicate important info to anyone working on the project. Task board "Information radiators"
+
+Burn down Chert
+Blocked Tasks
+Embrace change.
+
+When change comes along, either the business has found a new opportunity or changed course which is great for the company to follow the better direction, or the user didn't know what they wanted initially. they aren't changing their mind on purpose, the just now have a fuller idea of what the software should do.
+
+• • •
+I P Values:
+
+Communication: everyone's aware of everyone else's work
+Simplicity: des focus on writing most simple & direct solutions possible
+Feedback: Constant tests & feedback loops keep quality of the product in cheek.
+Courage: everyone make, best choices for the project, even if discarding old work.
+Respect: Every member is important 4 valuable to the team.
+If values aren't internalised by everyone, you get responses like "it won't work for our team" without any concrete reasoning behind it. No argument against, just a feeling.
+
+Are you OK with XP?
+
+* Comfortable throwing out old code & ideas when you learn that it doesn't work? Is your boss?
+
+* If boss wants a lighter deadline, does the team truly
+
+believe that writing unit tests is the fastest way to meet it? Even though that means writing -more code? * If a junior den takes on a task, is the rest of the teen
+
+K to give them the authority to finish it? Even if someone thinks they can do it faster? Is it OK for the developer to fail I learn from it?
+
+o
+
+• • •
+XP principles
+
+Humanity - software is built by people, there's a balance
+
+between the needs of the people and the needs of the project. Economies - Somebody is always paying for the software, keep the
+
+budget in mind.
+
+Mutual Benefit - search for practices that benefit the individual, the
+
+team, and the customer together.
+
+Improvement - Be introspective, realise how you can improve. Diversity - Lots of opinions & perspective, work together to come up w/ better
+
+solutions.
+
+Flow - constant delivery means a continuous flow of development work.
+
+not distinct
+
+phases.
+
+Opportunity - Each problem is a chance to learn something new about software
+
+development
+
+Redundancy - Can seem wasteful at first blush, but avoids big
+
+quality problems.
+
+Failure - you can learn a lot from failing, it's OK to try things
+
+that don't work.
+
+Quality - you can't deliver faster by accepting a lower quality product. Accepted Responsibility - If someone is responsible for something, they
+
+need to have the authority to get it done. Baby Steps - small steps in the right direction when adopting practices.
+
+• • •
+Principles of the methodology help you understand why implementations fail, and why the practice, are important. Much more important that my team understand, the values. agrees with the principles. Practices will fall into place, and can be correctly optimised, if the principles are there. Nobody would do a practice without a principle, and "somebody else does it" is a worthless principle.
+
+• • •
+11 Corollary Practices A XP Real Customer Involvement
+
+Incremental Deployment
+
+Team Continuity
+
+Shrinking Tears
+
+Rat Cause Analysis
+
+Shared Code Cale & Tesh Single Codebase Daily Deployment ×
+
+Negotiated Scope Contract consulting companies. Fix time, negotiate scope.
+
+Get feedback about usage. Incremental deployment: deploy small prices of the system individually, rather than one big shot.
+
+Keep effective teams together.
+
+As teams became more efficient, don't give them more work, take one person away I move them to a team to help spread the values & practices of XP.
+
+• • •
+0h7.
+
+XP, Simplicity & Incremental Design Goal of XP is to build software that can be extended and changed easily.
+
+YA ENI- "Always implement thing, when you actually need
+
+them, not when you face needing them". Easy to fall into the "framework trap" this way. Being too clever, trying to solve problems that don't exist yet.
+
+Only build a library or framework, if your goal was to write a library or framework.
+
+Not as a consequence of the work you're doing. Code smells increase the complexity of a project.
+
+• • •
+Incremental Design- making code design decisions at the
+
+last resasible moment.
+
+Avoids solving bigger, tangential problems you're close to. Energised work: establishing an environment where every team member is given enough time & freedom to do the job. Keeps them in a mental space where they can develop & use good habits that lead to better, more naturally changeable code. Coding is mostly a mental exercise. (Think how long it takes to create the code us. re-typing it out). 15-45 min to get into a state of "flaw".
+
+Un-energised work makes it impossible to get into flow state. Only work 40 hours a week. Productivity goes down after.
+
+Whole team - must trust each other & make decisions together.
+
+• • •
+Don't aim for 1004 heat coverage- the goal of a software team isn't to write tests, it's to create working software, and tests are a lad to aid that. Focus on tests were when you have issues appearing A quality.
+
+* Talk about Y AGNI,
+
+don't allow team to fall into framework trap, focus on making decisions at the last responsible moment. * Recognise when team member is uncomfortable w/
+
+an XP practice (TDD or pairing), and help them get past them discomfort.
+
+* Don't let are overly excited team member feel like
+
+an XP bully or zealot. Help then be patient.
+
+• • •
+oh 8.
+
+Lean Eliminating Wash, and Seeing the whole. Leon has no practices. Mindset of values & principles.
+
+Thinking tools, lean thinking.. Lean Values
+
+It Eliminate Waste.
+
+Find work you're doing that doesn't directly help create valuable software I remove it from the project.
+
+* Amplify learning
+
+Use feedback from your project to improve how you build software. * Decide as late as possible
+
+Make every important decision for your project when you have the most information about it - the last responsible moment.
+
+Understand cost of delay, minimize it using pull systems & queues. * Deliver as fast as possible
+
+* Empower the team
+
+Establish a focused & effective work environment, build a whole team of energised people.
+
+* Build integrity in
+
+Build software that intuitively makes sense to the users, form, coherent whole. * See the whole
+
+Understand the work on your project. Right kind of measurements to see clearly.
+
+• • •
+Lean
+
+IP Eliminate waste
+
+Simplicity deliver as fast as
+
+possible
+
+Empire the team
+
+Build integrity in
+
+Last Responsible Moment See the whole
+
+Amplify learning
+
+Respect Enerised Work,
+
+Openness
+
+Focus
+
+Courage
+
+Commitment
+
+Scrum
+
+• • •
+Option, Thinking - seeing the difference between something you're committed to, and something you have the night, but not obligation, to do.
+
+Set-based Development.
+
+Running a project in a way that gives you more options by having the team follow several paths simultaneously to build alternatives that they can compare.
+
+In lean thinking, anti-patterns for running projects are waste. Waste is anything your team does that doesn't actively help them build better software.
+
+Other herd to see wasteful activities as waste, because they're almost always someone else's priority: PM, contractor, Senior Manager.
+
+• • •
+Seven Washes of Software Development. * Partially Done Work.
+
+Only deliver work that's ' 'done done"; if it's not 1004 completes you haven't delivered value to your users.
+
+Any activity that doesn't deliver value is waste. * Extra process
+
+time spent giving status updates for example, or creating estimates. Tracking & reporting time does not directly contribute to delivering software. * Extra Features
+
+Something nobody asked for.
+
+* Task Switching
+
+Scrum value of "Focus" helps see that switching between projects. or even between unrelated tasks on the same project, adds unexpected delays & effort. context switching costs cognitive overhead. * Waiting
+
+reviews, approvals, provisioning hardware obtaining a licence. Waste. * Motion
+
+When not sitting together, team spends days /weeks walking to/from each other.
+
+* Defects
+
+Time spent fixing bugs later in SDLC that could have been found earlier by TDD 4 Quality measures. Waste.
+
+• • •
+ch. 9
+
+Kamba, Flew, and Constantly improving.
+
+term, adapted for software. Kaba is a manufacturing
+
+Effective way to bring lean thinking into your organisation. Scum primarily focuses on project management.
+
+what will be done, when it will be delivered, whether it meets the needs of the user/customer.
+
+XP focuses on software development.
+
+Values 4 practices built around creating an ear conducive to development, and developing programmer habits that help then design & build code that's simple 4 easy to change. Kaba is about helping the team improve the way that they build
+
+software. Gives practices to help stabilize 4 improve your system for building software.
+
+First, follow foundational principles! Then adopt one practices
+
+Statu/ what you do now - Visualise
+Limit WIP
+Agree to pursue incremental,
+Manage Flew
+evolutionary change
+
+Initially, respect current roles. - Make process policies explicit responsibility 4 job titles -Implement feedback loop,
+Improve Collaboratively. Evolve Experimentally.
+• • •
+Harbor Boards
+
+Task Boards.
+
+↳
+
+Tasks bad, have tasks on them Korban boards have work items.
+
+A wok them is a single, self centered unit of work that can be tracked through the entire system. Typically larger than a minimum measurable feature, requirement. user story, or other individual scope then.
+
+Tasks flow across a task board.
+
+Work items are not tasks.
+
+Tasks are what people do to move the work items through the system. Tasks are the cogs of the machine pushing the work then through to completion.
+
+Kuban isn't a system for project management. It is intended to improve 4 change the process in use on the project: this can & will affect how the project is managed. Kaba is typically used to improve predictability of flew, which will affect planning & scheduling.
+
+Extensive use of Kansas & it's metrics is likely to have a significant knack-an effect on the method of profit management.
+
+• • •
+Kaba: don't copy someone else's board. it's a
+
+representation of your own hen's process. Should have columns for each step of your process. Helps visualise column where work is getting blacked. The concept of a "blocked" column, will serve to hide where in your flow those items are getting blacked.
+
+Limit Work in Progress.
+
+Once unevenness in the workflow has been identified, we can use it to control the amount of work that flows through the whole system. by placing a strict limit on the amount of work that is allowed to pile up behind it. Set a limit on number at work items that can be in a particular stage in the project's workflow.
+
+Setting a WIP limit for a step in your workflow means limiting the number of features allowed to move into that step.
+
+WIP limit changes what the team will choose to work on next.
+
+• • •
+Measure & Manage Flow
+
+How of the system is the rate at which work items were through it. When the team finds an optimal pace for delivery. combined w/ a comfortable amount of feedback, they're maximised the flow.
+
+Cut down on unevenness 4 overburdening.
+
+A Korban team uses the "manage than" practice, by measuring the flow & taking active steps to improve it for the Lean. How do you know you're increasing flaw when you add WIP limits? Cumulative Flaw Diagrams help (CFD). Work items accumulate in later stripes & bas. Look for patterns that indicate a problem; unevenness, loops. CFD lets you look at the way your entire process is performing over time, so you can find 4 fix the root cause of any long term problems.
+
+Longer lead times seem to be associated uh significantly poor quality. 6 fold increase in lead time, led to 36 increase m initial defects. Longer any. lead Lines result from greater avant of WIP Management leverage point for improving quality is to reduce the until at WIP.
+
+• • •
+Use a CFD to experiment w/ WIP limits Image flow.
+
+Managing flow w/ WIP limits naturally creates slack. Des need slack /wiggle. room in the schedule. Needed to make sure they have time to do a good job, otherwise rushed developers cut corners to meet deadlines.
+
+Korban team, adopt a delivery cadence rather than timbered blocks. They commit to a regular release but dont specify what will be m that release.
+
+With a WIP limit, when the limit is reached, new items can't be added by stakeholders, they have to remove something. they see this not as a fault of the team, but a limitation of the system.
+
+It's all about maximising flaw.
+
+Measure it 4 observe w/ WIP bad & Cumulative Flow Diagram: Set WIP limits to stabilise the system.
+
+Korban is Japanese for "signal cand".
+
+• • •
+Korban is not for project management it is for process improvement.
+
+Need to know what the process is currently, and measure.
+
+Teams use Kuban boards a lot, to trek items & update progress, but very much without actually using Kaba- they meet everything like tasks, and don't put WIP limits m place to identify their issues.
+
+The idea of tasks should be separated from labor story cards: These are used for 2 different things. Coaching Agile
+
+.
+
+Need principles.
+
+* Industriousness- it's hard to gain these new skills, requires hard work. * Enthusiasm - gotta put your heart sail in, it will rub off! * Fundamental - "the finest system cannot overcome poor execution
+
+of the fundamentals". KNOW these fundamentals, base every decision & argument on then, embody then. * Development of team spirit - teamwork & unselfishness must be
+
+encouraged at every opportunity. Need to nurture trust & togetherness.
+
+
